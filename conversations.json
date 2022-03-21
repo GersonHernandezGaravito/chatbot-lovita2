@@ -1,0 +1,48 @@
+{
+    "_default": {
+        "1": {
+            "user": "gluna",
+            "conversations": [
+                [
+                    {
+                        "msg": "hola",
+                        "ans": "BUENA NOCHE"
+                    },
+                    {
+                        "msg": "como estas?",
+                        "ans": "Muy Bien."
+                    },
+                    {
+                        "msg": "mi nombre es gluna",
+                        "ans": "HOLA gluna."
+                    },
+                    {
+                        "msg": "umg",
+                        "ans": "NUESTRA UNIVERSIDAD!"
+                    },
+                    {
+                        "msg": "Me gusta la U",
+                        "ans": "INTERESANTE, ME DEJASTE SIN PALABRAS"
+                    }
+                ]
+            ]
+        },
+        "2": {
+            "user": "unknown",
+            "conversations": [
+                []
+            ]
+        },
+        "3": {
+            "user": "jugador1",
+            "conversations": [
+                [
+                    {
+                        "msg": "como estas chatbot?",
+                        "ans": "NO TE CREO! SUENA INTERESANTE PERO NO COMPRENDI DEL TODO"
+                    }
+                ]
+            ]
+        }
+    }
+}
